@@ -45,7 +45,7 @@ Server listens on port **9090**.
 ## Test Files
 Create test files in project directory:
 bash
-echo "<h1>Hello World!</h1>" > index.html
+echo "<h1>Hello</h1>" > index.html
 
 
 ## Benchmark

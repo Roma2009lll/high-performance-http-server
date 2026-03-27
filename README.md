@@ -28,7 +28,7 @@ bash
 ab -k -c 20000 -n 500000 http://127.0.0.1:9090/
 
 
-Results: **XX,XXX requests/sec**
+Results: **66,500 requests/sec**
 
 ## Build
 bash
